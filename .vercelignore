@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+.DS_Store
+*.zip
+naman-portfolio.zip
+.claude
+content/site.json.bak

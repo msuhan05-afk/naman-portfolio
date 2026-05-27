@@ -1,0 +1,361 @@
+{
+  "hero": {
+    "name": "Suhani mathur",
+    "title": "HCI Designer · Creative Technologist",
+    "headline": [
+      "Designing",
+      "for",
+      "human",
+      "behnchod"
+    ],
+    "italicWord": "human",
+    "subtitle": "HCI designer working across product, XR and physical interfaces — currently MSc HCI at the University of the Creative Arts, London.",
+    "indexLine": "Index — Selected Works ’22 → ’26",
+    "location": "London, UK · Available May ’26",
+    "currentlyLabel": "Currently",
+    "currently": "Researching tangible & spatial UI · Open to product / HCI roles in London"
+  },
+  "projects": [
+    {
+      "slug": "metalane-health",
+      "title": "Metalane — Health Platform",
+      "category": "Product · Healthcare",
+      "year": "2024",
+      "blurb": "End-to-end digital health platform (now part of Illumina) — service discovery, appointments, family records and insurance, designed around accessibility and health literacy.",
+      "cover": "radial-gradient(circle at 30% 25%, #2a3a45 0%, #1a242c 45%, #0e1418 100%)",
+      "coverImage": "/uploads/1779750519799-1694559375697.jpg",
+      "accent": "#7C8DA6"
+    },
+    {
+      "slug": "wild-wisdom",
+      "title": "Wild Wisdom — Education Platform",
+      "category": "UI/UX · Motion",
+      "year": "2023",
+      "blurb": "An educational platform for young learners exploring wildlife and nature — playful flows, intuitive navigation, and motion sequences that bring content to life.",
+      "cover": "radial-gradient(circle at 70% 30%, #2e3a26 0%, #1f2618 50%, #11150d 100%)",
+      "coverImage": "/uploads/1779750511108-logo-new.png",
+      "accent": "#9CA284"
+    },
+    {
+      "slug": "wwf-earth-hour",
+      "title": "WWF — Earth Hour Campaign",
+      "category": "Brand · Campaign",
+      "year": "2022",
+      "blurb": "Campaign visuals, posters and digital assets for WWF India’s Earth Hour — communicating an urgent environmental message within global WWF identity.",
+      "cover": "radial-gradient(circle at 50% 50%, #2a221a 0%, #1c1612 55%, #0d0a08 100%)",
+      "coverImage": "/uploads/1779750500861-wwf_logo_large_rgb_72dpi.jpg",
+      "accent": "#D6A95F"
+    },
+    {
+      "slug": "cheesecake-studios",
+      "title": "Cheesecake Studios",
+      "category": "Brand · Studio Founding",
+      "year": "2021 — Now",
+      "blurb": "Founded a boutique studio in J&K — animated invitations, identities and short-form video in Dogri. Grew an organic community around regional design.",
+      "cover": "radial-gradient(circle at 30% 70%, #2c241c 0%, #1a1410 55%, #0c0907 100%)",
+      "coverImage": "/uploads/1779750480920-cheesecake-logo.png",
+      "accent": "#E0B57A"
+    },
+    {
+      "slug": "hci-lab-portfolio",
+      "title": "HCI Lab — Portfolio",
+      "category": "Academic · HCI Research",
+      "year": "2025",
+      "blurb": "Six critical reflections from FGCT7023 — wicked problems, communities of practice, participatory design, and the four orders of design, written across a semester of live research at UCA.",
+      "cover": "radial-gradient(circle at 20% 30%, #1a1f2e 0%, #0d1117 60%, #080b10 100%)",
+      "coverImage": "/uploads/1779750469319-chatgpt-image-may-21-2026-at-04_48_30-pm.png",
+      "accent": "#7B8EAD",
+      "sections": [
+        {
+          "key": "design-challenge",
+          "label": "Design Challenge I",
+          "body": "A deceptively generous premise: £300,000, twelve months, a campus — design the lab. Working solo surfaced instincts I hadn’t examined before: XR headsets across the price spectrum, motion capture, haptic wearables, a BCI/EEG setup. The proposal landed well. That’s precisely why I wanted to interrogate it."
+        },
+        {
+          "key": "wicked-problems",
+          "label": "Wicked Problems",
+          "body": "Delhi’s winter smog maps onto all ten of Rittel and Webber’s properties. A 2025 AQI peak of 461 is not a design problem — it is a political, infrastructural, and generational condition that resists every single-actor intervention. HCI’s increasing role in civic systems means inheriting the wickedness."
+        },
+        {
+          "key": "communities-of-practice",
+          "label": "Communities of Practice",
+          "body": "Four or five of us interested in physical product design, none with a polished roadmap. We joined because the module defaults to screen-based work and we wanted to push toward objects you can hold. The group mapped cleanly onto Wenger-Trayner’s three CoP characteristics — we just didn’t know it at the time."
+        },
+        {
+          "key": "participatory-design",
+          "label": "Participatory Design",
+          "body": "Bødker, Kensing, and Simonsen’s starting position: not “users are a useful input” but “users are co-designers, and the political question is who gets to make the decisions.” Involving people in design is not the same as giving them authority over it. That distinction is the discipline."
+        },
+        {
+          "key": "buchanan-four-orders",
+          "label": "Buchanan’s Four Orders",
+          "body": "Graphics, products, interactions, systems. Working through the framework against this semester’s work revealed a consistent drift toward the third and fourth orders — a preference for actions and conditions over artefacts. The most honest thing the framework did was name what I had been avoiding: the question of scale."
+        },
+        {
+          "key": "requirements-engineering",
+          "label": "Requirements Engineering",
+          "body": "Sommerville’s four-stage process assumes requirements can be elicited, classified, and signed off. Working through the library-app exercise with real stakeholder tensions — students, staff, management — showed exactly where the procedure stops being able to help. The gap between method and reality is where the design actually lives."
+        }
+      ]
+    },
+    {
+      "slug": "state-of-the-art-portfolio",
+      "title": "State of the Art — Portfolio",
+      "category": "Academic · Critical Inquiry",
+      "year": "2025",
+      "blurb": "Six field reports from FGCT7022 — AI in law, invisible interfaces, behavioural systems, XR embodiment, and a technology hunt at AWS Summit London, written from the edges of HCI’s expanding territory.",
+      "cover": "radial-gradient(circle at 75% 20%, #1e1a2e 0%, #100e1a 55%, #080710 100%)",
+      "coverImage": "/uploads/1779750453710-03e3b691-bb17-4089-9896-08631200b1e9.png",
+      "accent": "#9B8DC0",
+      "sections": [
+        {
+          "key": "aws-summit",
+          "label": "AWS Summit Hunt",
+          "body": "A full day at AWS Summit London on a self-directed technology hunt. The standout: the Natural History Museum’s connected data ecosystem — urban sensors, community-science surveys, AI unlocking century-old specimens. Around a hundred new connections, and a much clearer sense of where these technologies are actually heading versus where the marketing claims they are."
+        },
+        {
+          "key": "ai-in-law",
+          "label": "AI in Law",
+          "body": "Sharing a cab to work, a practising lawyer told me Harvey had done roughly 85% of the drafting on a recent financial legal document — and she now needed just twenty minutes of review before signing. That single detail made AI’s reach concrete rather than abstract. No field left untouched, including one as tradition-bound as law."
+        },
+        {
+          "key": "behavioural-systems",
+          "label": "Behavioural Systems",
+          "body": "We constructed a scale model of a public waiting room — referencing Waterloo Station — and systematically altered its spatial cues. The cardboard model became a test bed for one argument: designed environments are not neutral containers. The Gruen transfer is not an accident; it is the design."
+        },
+        {
+          "key": "ai-trust",
+          "label": "AI Trust & Control",
+          "body": "Autonomous systems optimising power grids, self-driving vehicles, co-working AI agents — all raise the same structural question: at what point does a system’s capability exceed a human’s ability to meaningfully oversee it? A speculative inquiry into where trust begins to substitute for understanding."
+        },
+        {
+          "key": "xr-embodied",
+          "label": "XR & Embodied Interaction",
+          "body": "The question the XR workshops kept returning to: what unique actions can you do here that you cannot in other mediums? Beat Saber, Superhot VR, Half-Life: Alyx — each a demonstration that when the body becomes the interface, an entirely different set of design constraints applies."
+        },
+        {
+          "key": "invisible-interfaces",
+          "label": "Invisible Interfaces",
+          "body": "Mark Weiser’s 1991 claim: the most profound technologies are those that disappear, weaving themselves into everyday life until they are indistinguishable from it. Before smartphones and GUIs, humans navigated a world dense with dials, textures, and learned conventions. Designing for invisibility is a distinct and demanding discipline."
+        }
+      ]
+    }
+  ],
+  "xrProjects": [
+    {
+      "id": "spatial-memory",
+      "title": "Spatial Memory",
+      "kind": "XR · Quest",
+      "year": "2025",
+      "tagline": "A room that remembers where you left your attention.",
+      "body": "A passthrough MR study exploring spatially-anchored notes and ambient recall — your kitchen counter becomes a calendar; your bookshelf, an inbox.",
+      "tags": [
+        "Passthrough MR",
+        "Spatial UI",
+        "Quest 3"
+      ],
+      "swatch": "radial-gradient(circle at 30% 30%, #2e3a4a 0%, #18222e 60%, #0c1218 100%)",
+      "media": ""
+    },
+    {
+      "id": "tangible-dial",
+      "title": "Tangible Dial",
+      "kind": "Physical · Interaction Object",
+      "year": "2025",
+      "tagline": "A knob that knows when you mean it.",
+      "body": "A haptic rotary controller paired with a screen-based meditation app — tactile detents map to breath rhythm, not menu steps.",
+      "tags": [
+        "Hardware",
+        "Haptics",
+        "Arduino"
+      ],
+      "swatch": "radial-gradient(circle at 50% 50%, #3a302a 0%, #221a14 55%, #110b08 100%)",
+      "media": ""
+    },
+    {
+      "id": "rayban-glance",
+      "title": "Ray-Ban · Glance Layer",
+      "kind": "Wearable · Concept",
+      "year": "2025",
+      "tagline": "Vision-first, voice-second, screen-never.",
+      "body": "A sound-led notification grammar for camera-glasses — micro-cues delivered through bone conduction, designed for the periphery of attention.",
+      "tags": [
+        "Wearable",
+        "Audio UX",
+        "Ambient"
+      ],
+      "swatch": "radial-gradient(circle at 70% 40%, #2a2a2e 0%, #18181c 60%, #0a0a0c 100%)",
+      "media": ""
+    },
+    {
+      "id": "paper-desk",
+      "title": "Paper Desk",
+      "kind": "Physical + Software",
+      "year": "2024",
+      "tagline": "Pen-and-paper as the source of truth.",
+      "body": "A camera-tracked desk surface that reads paper sketches in real time, turning ink strokes into live UI prototypes for ideation sessions.",
+      "tags": [
+        "Computer Vision",
+        "Prototype",
+        "Studio Tool"
+      ],
+      "swatch": "radial-gradient(circle at 30% 70%, #2c2820 0%, #1a1814 55%, #0e0c0a 100%)",
+      "media": ""
+    },
+    {
+      "id": "field-radio",
+      "title": "Field Radio",
+      "kind": "Physical · Device",
+      "year": "2024",
+      "tagline": "A small box for slow internet.",
+      "body": "A handheld FM-style player tuned to RSS feeds and podcast streams. One dial. One button. No notifications, ever.",
+      "tags": [
+        "Hardware",
+        "Calm Tech",
+        "Industrial Design"
+      ],
+      "swatch": "radial-gradient(circle at 50% 30%, #322a24 0%, #1e1814 55%, #100c0a 100%)",
+      "media": ""
+    }
+  ],
+  "archive": [
+    {
+      "id": 1,
+      "caption": "Tram, Lisbon — 2024",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "caption": "Rain on glass, Mumbai — 2023",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "caption": "Subway, Tokyo — 2024",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "caption": "Studio still life — 2025",
+      "image": ""
+    },
+    {
+      "id": 5,
+      "caption": "Window, Berlin — 2023",
+      "image": ""
+    },
+    {
+      "id": 6,
+      "caption": "Hands at work — 2024",
+      "image": ""
+    },
+    {
+      "id": 7,
+      "caption": "Coastline, Goa — 2022",
+      "image": ""
+    },
+    {
+      "id": 8,
+      "caption": "Reflection, Paris — 2024",
+      "image": ""
+    }
+  ],
+  "notes": [
+    {
+      "n": "01",
+      "date": "2026 · 03",
+      "text": "People trust physical knobs more than invisible gestures."
+    },
+    {
+      "n": "02",
+      "date": "2026 · 02",
+      "text": "Waiting screens become emotional spaces. Most are wasted."
+    },
+    {
+      "n": "03",
+      "date": "2026 · 01",
+      "text": "Most interfaces ignore rhythm. They tick, they don’t breathe."
+    },
+    {
+      "n": "04",
+      "date": "2025 · 12",
+      "text": "A confirmation dialog is a small theatre. Treat it like one."
+    },
+    {
+      "n": "05",
+      "date": "2025 · 11",
+      "text": "Sound shapes trust faster than copy does."
+    },
+    {
+      "n": "06",
+      "date": "2025 · 09",
+      "text": "Latency, when honest, can be beautiful. When hidden, it is dishonest."
+    }
+  ],
+  "about": {
+    "based": "London, UK",
+    "studying": "MSc HCI, UCA",
+    "previously": "Metalane · WWF India · Genesis BCW",
+    "openTo": "Product · HCI roles in London",
+    "paragraph1": "I work across product design, AR/VR and motion — drawn to the spaces where digital interfaces meet physical behaviour. Currently completing an MSc HCI at UCA London, with a focus on interaction design, accessibility and user-centred research.",
+    "paragraph2": "Before London, I designed an end-to-end health platform at Metalane (now Illumina), led visual storytelling for WWF India, and founded a boutique studio producing animated identities and short-form video in my hometown.",
+    "skills": {
+      "Practice": "HCI · Interaction Design · Product Design · AR / VR · Motion",
+      "Tools": "Figma · Adobe Suite · After Effects · Premiere · Code",
+      "Methods": "User Research · Prototyping · Usability Testing · Accessibility (WCAG)"
+    },
+    "timeline": [
+      {
+        "y": "2025 — 26",
+        "t": "MSc Human Computer Interaction",
+        "s": "University of the Creative Arts, London"
+      },
+      {
+        "y": "2024",
+        "t": "Product Designer — Metalane (now Illumina)",
+        "s": "Designed an end-to-end health platform"
+      },
+      {
+        "y": "2022 — 23",
+        "t": "Visual Communicator — WWF India",
+        "s": "Earth Hour campaign, Wild Wisdom UI/UX"
+      },
+      {
+        "y": "2022",
+        "t": "Video Editor Intern — Genesis BCW (now Burson)",
+        "s": "Brand content & motion"
+      },
+      {
+        "y": "2021 — Now",
+        "t": "Founder — Cheesecake Studios",
+        "s": "Boutique studio in J&K, India"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+44 7818 864596",
+    "footnote": "Based in London. Currently completing my MSc HCI at UCA and open to product / HCI roles where research, craft and usability intersect.",
+    "links": [
+      {
+        "label": "Email",
+        "value": "namanmehra.work@gmail.com",
+        "href": "mailto:namanmehra.work@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "value": "linkedin.com/in/naman-mehra-",
+        "href": "https://www.linkedin.com/in/naman-mehra-/"
+      },
+      {
+        "label": "Portfolio",
+        "value": "namansportfolio.framer.website",
+        "href": "http://namansportfolio.framer.website/"
+      },
+      {
+        "label": "Behance",
+        "value": "behance.net/namanmehra2",
+        "href": "https://www.behance.net/namanmehra2"
+      }
+    ]
+  }
+}
